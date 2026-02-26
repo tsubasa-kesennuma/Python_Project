@@ -29,7 +29,7 @@ This Python script empowers you to effortlessly analyze and visualize stock rati
 ## Usage
 1. **Install Dependencies**: Ensure that all required Python packages are installed. You can install them via pip:
    ```
-   pip install requests yfinance pandas matplotlib
+   pip install requests yfinance pandas matplotlib xlrd openpyxl
    ```
 or 
    ```
